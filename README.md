@@ -1,8 +1,6 @@
 # pandas-challenge
 ## Option 1: Heroes of Pymoli
 
-![Fantasy](Images/Fantasy.png)
-
 This project includes a script that analyzes the data for the fantasy game Heroes of Pymoli.
 
 The report includes the below information:
